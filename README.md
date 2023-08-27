@@ -22,7 +22,7 @@ const dreamingWater = {
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmcxdnl3ZmhoOXM5d2hnYnM4ZTRzcHYybjZkenVjcG1xNXp0N2NwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQdL532ZANbjy/giphy.gif" width="60"> <em><b>
 An employed individual who lacks enthusiasm for studying and lacks focus on academic research, </b>often getting distracted by unconventional ideas in daily life, despite frequently leading to failure.<b> 
-(⊙x⊙;)Any hope for redemption?</b></em>
+&nbsp;&nbsp;Any hope for redemption?</b></em>
 
 ---
 
